@@ -28,9 +28,9 @@ body {
 
 .card {
   background-color: white;
-  padding: 1rem;
+  padding: 1.2rem;
   border-radius: 8px;
-  max-width: 250px;
+  max-width: 300px;
   box-shadow: 0 5px 18px var(--g-blue-a);
 }
 
@@ -40,19 +40,19 @@ body {
 }
 
 .card__details {
-  padding: 0.5rem 5px;
+  padding: 0.8rem 5px;
   text-align: center;
 }
 
 .card__title {
-  font-size: 1rem;
+  font-size: 1.2rem;
   font-weight: 700;
   color: var(--d-blue);
   padding: 0;
 }
 
 .card__text {
-  font-size: 0.8rem;
+  font-size: 1rem;
   font-weight: 400;
   color: var(--g-blue);
   margin-top: 1rem;
